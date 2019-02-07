@@ -7,10 +7,18 @@
     "todo",
     "db"
   ],
-  "author": "Benjamin Caradeuc <benjamin@caradeuc.info> (https://benjamin.caradeuc.info/)",
-  "license": "MIT",
   "dependencies": {
     "data-store": "^3.1.0",
     "uniqid": "^5.0.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benavern/z-todo-db.git"
+  },
+  "author": "Benjamin Caradeuc <benjamin@caradeuc.info> (https://benjamin.caradeuc.info/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benavern/z-todo-db/issues"
+  },
+  "homepage": "https://github.com/benavern/z-todo-db#readme"
 }
