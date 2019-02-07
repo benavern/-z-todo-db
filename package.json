@@ -1,0 +1,16 @@
+{
+  "name": "@z-todo/db",
+  "version": "1.0.0",
+  "description": "the database for @z-todo project",
+  "main": "index.js",
+  "keywords": [
+    "todo",
+    "db"
+  ],
+  "author": "Benjamin Caradeuc <benjamin@caradeuc.info> (https://benjamin.caradeuc.info/)",
+  "license": "MIT",
+  "dependencies": {
+    "data-store": "^3.1.0",
+    "uniqid": "^5.0.3"
+  }
+}
